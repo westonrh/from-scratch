@@ -1,0 +1,20 @@
+img {
+    height: 400px ;
+    width: 300px ;
+}
+body {
+    background-color: rgb(239, 52, 52);
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.section-1 {
+    background-color: black;
+}
+.section-2 {
+    background-color: beige;
+    color: rgb(239, 52, 52);
+}
+.section-3 {
+    background-color: darkgray;
+    color: black;
+}
